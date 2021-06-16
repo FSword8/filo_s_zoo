@@ -1,2 +1,2 @@
-# Filo-s zoo
-this repo has benne created as part of a SC workshop
+# Filo's zoo
+this repo has been created as part of a SC workshop
